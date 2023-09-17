@@ -1,6 +1,17 @@
-## Hi 👋, I'm Ingrid Laila | Oi 👋, sou a Ingrid Laila
+## Oi 👋, sou a Ingrid Laila
 
-Sou analista de dados certificada pelo Certificado Profissional de Data Analytics do Google. Com experiência em extração de dados usando SQL e criação de dashboards no PowerBI, sempre entreguei demandas com eficiência e obtive ótimas avaliações dos clientes graças ao meu senso de organização, disciplina e trabalho em equipe. Estou animada para continuar desenvolvendo minhas habilidades e contribuindo para o sucesso da empresa. 😊
+📊 Analista de Dados e Business Intelligence
+Com sólida experiência em extrair insights valiosos de conjuntos de dados complexos, sou apaixonada por transformar dados brutos em informações acionáveis que impulsionam decisões de negócios estratégicas.
+
+Minhas competências incluem:
+
+📈 Insights de Negócio: Traduzindo dados em estratégias tangíveis.
+🛠 ETL: Eficiente na extração, transformação e carregamento de dados.
+📋 Gestão de Projetos: Liderando equipes para alcançar objetivos de negócios.
+💻 Programação: Proficiente em Python e SQL.
+☁ Google Cloud Storage: Experiência em armazenamento e gerenciamento de dados na nuvem.
+
+Estou sempre em busca de novos desafios e oportunidades para aplicar minha expertise e agregar valor. Vamos colaborar!
 
  - 💻 My Portfolio (in progress) | Meu Portfolio (sendo produzido): [Portfolio](https://sites.google.com/view/portfolio-ingrid-laila)
 
