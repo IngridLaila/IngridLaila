@@ -19,7 +19,7 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar minha exper
 
  - 💻 My Portfolio (in progress) | Meu Portfolio (sendo produzido): [Portfolio](https://sites.google.com/view/portfolio-ingrid-laila)
 
- - 🧑🏽‍💻 All of my projects are available in | Todos meus projetos estão disponíveis no: [Projetos de Data Analytics](https://github.com/IngridLaila/Projeto-Final)
+ - 🧑🏽‍💻 All of my projects are available in | Todos meus projetos estão disponíveis no: [Projetos de Data Analytics](https://github.com/IngridLaila/Projeto-Analise-de-Dados)
 
  -  📫 How to reach me | Por onde me encontrar: **ingrid.laila21@gmail.com**
 
