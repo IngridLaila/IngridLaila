@@ -6,9 +6,13 @@ Com sólida experiência em extrair insights valiosos de conjuntos de dados comp
 Minhas competências incluem:
 
 📈 Insights de Negócio: Traduzindo dados em estratégias tangíveis.
+
 🛠 ETL: Eficiente na extração, transformação e carregamento de dados.
+
 📋 Gestão de Projetos: Liderando equipes para alcançar objetivos de negócios.
+
 💻 Programação: Proficiente em Python e SQL.
+
 ☁ Google Cloud Storage: Experiência em armazenamento e gerenciamento de dados na nuvem.
 
 Estou sempre em busca de novos desafios e oportunidades para aplicar minha expertise e agregar valor. Vamos colaborar!
